@@ -1,4 +1,4 @@
-📌 SQL Query Generator – README
+🛢️ SQL Query Generator – Simplify Your SQL Query Creation!
 📖 Overview
 🚀 SQL Query Generator is a powerful tool designed to automate and simplify SQL query creation. Whether you're a beginner or an experienced developer, this project helps you generate optimized SQL queries with minimal effort.
 
